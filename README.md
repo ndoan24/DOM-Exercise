@@ -11,6 +11,3 @@ Title: Forms Table
 **Date: January 21, 2021
 ##Technology to be Used: *CSS *HTML, Javascript, DOM 
 
-See it here:
-
-http://github.com - automatic! GitHub
